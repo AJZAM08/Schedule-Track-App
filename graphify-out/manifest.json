@@ -1,0 +1,146 @@
+{
+  "app/build.gradle.kts": {
+    "mtime": 1789381798.89134,
+    "seen": 1789382790.8723166,
+    "ast_hash": "37f7f6e7cf404d2023961bb89eb01045",
+    "semantic_hash": "37f7f6e7cf404d2023961bb89eb01045"
+  },
+  "app/src/androidTest/java/com/scheduletrackapp/ExampleInstrumentedTest.kt": {
+    "mtime": 1789381797.3459795,
+    "seen": 1789382790.8723211,
+    "ast_hash": "84cd17c022f8e1c612e60dd07937500f",
+    "semantic_hash": "84cd17c022f8e1c612e60dd07937500f"
+  },
+  "app/src/main/java/com/scheduletrackapp/MainActivity.kt": {
+    "mtime": 1789381798.9915504,
+    "seen": 1789382790.872323,
+    "ast_hash": "2780acfe278a0967d807fa46993c617e",
+    "semantic_hash": "2780acfe278a0967d807fa46993c617e"
+  },
+  "app/src/main/java/com/scheduletrackapp/ui/theme/Color.kt": {
+    "mtime": 1789381798.3320892,
+    "seen": 1789382790.872324,
+    "ast_hash": "b3fc7d25c3d621d846f4cb7f18492fc3",
+    "semantic_hash": "b3fc7d25c3d621d846f4cb7f18492fc3"
+  },
+  "app/src/main/java/com/scheduletrackapp/ui/theme/Theme.kt": {
+    "mtime": 1789381799.0351188,
+    "seen": 1789382790.8723252,
+    "ast_hash": "d704afa1cbe7dbfab7ad622a8e2533b4",
+    "semantic_hash": "d704afa1cbe7dbfab7ad622a8e2533b4"
+  },
+  "app/src/main/java/com/scheduletrackapp/ui/theme/Type.kt": {
+    "mtime": 1789381798.3481083,
+    "seen": 1789382790.872326,
+    "ast_hash": "619a59e57eb0614039e5d8e6af9353d1",
+    "semantic_hash": "619a59e57eb0614039e5d8e6af9353d1"
+  },
+  "app/src/test/java/com/scheduletrackapp/ExampleUnitTest.kt": {
+    "mtime": 1789381797.2843635,
+    "seen": 1789382790.8723269,
+    "ast_hash": "a98bc3b4b53f7411d3d28bd3531c56e3",
+    "semantic_hash": "a98bc3b4b53f7411d3d28bd3531c56e3"
+  },
+  "build.gradle.kts": {
+    "mtime": 1789381798.6881588,
+    "seen": 1789382790.8723276,
+    "ast_hash": "f49e4fcefdb4de67e72283440b2f3b75",
+    "semantic_hash": "f49e4fcefdb4de67e72283440b2f3b75"
+  },
+  "gradlew": {
+    "mtime": 1789381795.3973908,
+    "seen": 1789382790.8723285,
+    "ast_hash": "266606e78242737ef3da02a80ea0564d",
+    "semantic_hash": "266606e78242737ef3da02a80ea0564d"
+  },
+  "settings.gradle.kts": {
+    "mtime": 1789381796.4614673,
+    "seen": 1789382790.8723292,
+    "ast_hash": "384d9b2f493147cd2ac6a0ba45c0efe4",
+    "semantic_hash": "384d9b2f493147cd2ac6a0ba45c0efe4"
+  },
+  "LHP_Architecture.md": {
+    "mtime": 1789227621.9817905,
+    "seen": 1789382790.8723302,
+    "ast_hash": "71e66af9812b47f9d43ae8d921c3d5fe",
+    "semantic_hash": "71e66af9812b47f9d43ae8d921c3d5fe"
+  },
+  "LHP_Design.md": {
+    "mtime": 1789227636.2617235,
+    "seen": 1789382790.8723314,
+    "ast_hash": "adf06b8c069f73236a45c6f0fc61688c",
+    "semantic_hash": "adf06b8c069f73236a45c6f0fc61688c"
+  },
+  "LHP_PRD.md": {
+    "mtime": 1789227615.8938375,
+    "seen": 1789382790.872332,
+    "ast_hash": "d904f42758fe41e2b4bed050303a286e",
+    "semantic_hash": "d904f42758fe41e2b4bed050303a286e"
+  },
+  "LHP_Schema.md": {
+    "mtime": 1789227628.2919972,
+    "seen": 1789382790.8723328,
+    "ast_hash": "3a7b88a85473778e28c54555bcac3437",
+    "semantic_hash": "3a7b88a85473778e28c54555bcac3437"
+  },
+  "app/src/main/res/mipmap-hdpi/ic_launcher.webp": {
+    "mtime": 1789381796.1166139,
+    "seen": 1789382790.8723338,
+    "ast_hash": "39d9bb21eb48f128a71c3f01ad3cd427",
+    "semantic_hash": "39d9bb21eb48f128a71c3f01ad3cd427"
+  },
+  "app/src/main/res/mipmap-hdpi/ic_launcher_round.webp": {
+    "mtime": 1789381796.1251268,
+    "seen": 1789382790.8723342,
+    "ast_hash": "70d6f58af3c76ee221c829b1ce9daa04",
+    "semantic_hash": "70d6f58af3c76ee221c829b1ce9daa04"
+  },
+  "app/src/main/res/mipmap-mdpi/ic_launcher.webp": {
+    "mtime": 1789381796.1403933,
+    "seen": 1789382790.8723352,
+    "ast_hash": "d2acce71c7b46e5e9540d23a9f7b2166",
+    "semantic_hash": "d2acce71c7b46e5e9540d23a9f7b2166"
+  },
+  "app/src/main/res/mipmap-mdpi/ic_launcher_round.webp": {
+    "mtime": 1789381796.1481643,
+    "seen": 1789382790.8723361,
+    "ast_hash": "6376acb48f96a855ee95c113cd7fd616",
+    "semantic_hash": "6376acb48f96a855ee95c113cd7fd616"
+  },
+  "app/src/main/res/mipmap-xhdpi/ic_launcher.webp": {
+    "mtime": 1789381796.1621914,
+    "seen": 1789382790.8723369,
+    "ast_hash": "bd087d80b70bec05a43c745f29dc3ffc",
+    "semantic_hash": "bd087d80b70bec05a43c745f29dc3ffc"
+  },
+  "app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp": {
+    "mtime": 1789381796.1696994,
+    "seen": 1789382790.8723378,
+    "ast_hash": "7479edd56ab712609f030054bffd7263",
+    "semantic_hash": "7479edd56ab712609f030054bffd7263"
+  },
+  "app/src/main/res/mipmap-xxhdpi/ic_launcher.webp": {
+    "mtime": 1789381796.1867466,
+    "seen": 1789382790.8723388,
+    "ast_hash": "ea180e8d1a2e8300cc998b987266b736",
+    "semantic_hash": "ea180e8d1a2e8300cc998b987266b736"
+  },
+  "app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp": {
+    "mtime": 1789381796.1945162,
+    "seen": 1789382790.8723395,
+    "ast_hash": "947842742b29eeda80ee0805e1600366",
+    "semantic_hash": "947842742b29eeda80ee0805e1600366"
+  },
+  "app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp": {
+    "mtime": 1789381796.209532,
+    "seen": 1789382790.872341,
+    "ast_hash": "54ab624970c86c2146e76b93f27586f7",
+    "semantic_hash": "54ab624970c86c2146e76b93f27586f7"
+  },
+  "app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp": {
+    "mtime": 1789381796.2165442,
+    "seen": 1789382790.872342,
+    "ast_hash": "9ee591be72fb336861a8044086054daa",
+    "semantic_hash": "9ee591be72fb336861a8044086054daa"
+  }
+}
