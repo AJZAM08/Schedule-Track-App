@@ -1,0 +1,10 @@
+package com.scheduletrackapp.domain.model
+
+enum class K3Category {
+    PESAWAT_ANGKAT_ANGKUT,
+    BEJANA_TEKAN_TANGKI,
+    INSTALASI_LISTRIK,
+    PROTEKSI_KEBAKARAN,
+    ELEVATOR_ESKALATOR,
+    INSTALASI_PENYALUR_PETIR
+}
